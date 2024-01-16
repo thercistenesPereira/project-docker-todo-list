@@ -2,6 +2,9 @@
 
 Projeto de introdução ao Docker
 
+![Static Badge](https://img.shields.io/badge/thercistenes-docker_todo_list-purple)
+![GitHub License](https://img.shields.io/github/license/thercistenesPereira/project-docker-todo-list)
+
 ## Sumário
 - [Pré-requisitos](#pré-requisitos)
 - [Primeiros Passos](#primeiros-passos)
